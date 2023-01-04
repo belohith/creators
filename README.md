@@ -71,3 +71,10 @@ Apple
 
 Google
 
+YouTube
+
+npm
+
+yarn
+
+CLI
